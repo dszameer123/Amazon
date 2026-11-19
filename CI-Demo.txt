@@ -1,0 +1,3 @@
+This is the demo
+This file demonstrates Continuous Integration using Git and Jenkins.
+Testing code changes before merging into master.
